@@ -3,7 +3,7 @@ We live in different sities so I make this simle code
 It works on Windows OS
 You can make .exe file with pyinstaller and rename it like exgpj.exe or Algpj.exe
 Then you can enter special UTF-code symbol that reflects left-to-right
-here: ex {} gpj.exe; Algpj.exe
+here: ex {} gpj.exe; Al{}gpj.exe
          
 After that: exexe.jpg (it's like hahaha in Russian) and Alexe.jpg (Alexey without y)    
 You can also give an .ico and it will look like you give him just a photo
